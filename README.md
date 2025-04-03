@@ -5,7 +5,7 @@
 - 📫 How to reach me @yeminimal across social media platforms
 - 😄 Pronouns: HIM
 - ⚡ Fun fact: I'm ADHD
-- 💸 Tip me: <a href="https://www.potatoesqueezy.xyz/profile?user=yeminimal" target="_blank" rel="noopener noreferrer">
+- 💸 Tip me: <a href="https://www.potatoesqueezy.xyz/app/profile?user=yeminimal" target="_blank" rel="noopener noreferrer">
         <img 
           src="https://coffee-major-wallaby-86.mypinata.cloud/ipfs/bafkreiaskbvndui55ycmqdu6ui6arfkhxmqgjvjcaw26myp4y76mmqtbyi" 
           width="350" 
