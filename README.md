@@ -5,6 +5,7 @@
 - 📫 How to reach me @yeminimal across social media platforms
 - 😄 Pronouns: HIM
 - ⚡ Fun fact: I'm ADHD
+- 💸 Tip me: https://www.potatoesqueezy.xyz/profile?user=yeminimal
 yeminimal/yeminimal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
